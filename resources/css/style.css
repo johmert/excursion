@@ -2,8 +2,36 @@
   background-color: black;
   font-family: Verdana;
   text-align: center;
+  font-weight: normal;
 }
 
 video, img {
   margin: auto;
+}
+
+.bulletpoint {
+  color: white;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#header {
+  font-size: 50px;
+}
+
+#guide {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+#description, #copyright {
+  color: gray;
+  font-size: 21px;
+}
+
+#copyright {
+  text-align: right;
 }
