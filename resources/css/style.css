@@ -1,0 +1,9 @@
+*{
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+video, img {
+  margin: auto;
+}
